@@ -1,0 +1,8 @@
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\bin\Debug\TextRepresentation.exe.config
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\bin\Debug\TextRepresentation.exe
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\bin\Debug\TextRepresentation.pdb
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\obj\Debug\TextRepresentation.csproj.AssemblyReference.cache
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\obj\Debug\TextRepresentation.csproj.SuggestedBindingRedirects.cache
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\obj\Debug\TextRepresentation.csproj.CoreCompileInputs.cache
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\obj\Debug\TextRepresentation.exe
+E:\DOCUMENTS\DEVELOPMENT\C#\TextRepresentation\TextRepresentation\obj\Debug\TextRepresentation.pdb
